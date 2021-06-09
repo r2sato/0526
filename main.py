@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Get
-res = requests.get('https://qiita.com/')
+res = requests.get('https://www.google.com/')
 
 # Parse
 soup = BeautifulSoup(res.text, 'html.parser')
