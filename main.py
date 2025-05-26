@@ -11,6 +11,6 @@ soup = BeautifulSoup(res.text, 'html.parser')
 title = soup.find('title').text
 
 print(title)
-print("Modify!!！")
+print("Modify!")
 
 
