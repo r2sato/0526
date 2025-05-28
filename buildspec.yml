@@ -10,7 +10,7 @@ phases:
 
 artifacts:
   files:
-#    - appspec.yml
+    - appspec.yml
     - main.py
 #    - run.sh
 #    - env_create.sh
