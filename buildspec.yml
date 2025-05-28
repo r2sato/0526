@@ -12,5 +12,5 @@ artifacts:
   files:
     - appspec.yml
     - main.py
-    - run.sh
-    - env_create.sh
+#    - run.sh
+#    - env_create.sh
