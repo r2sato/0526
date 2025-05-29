@@ -4,13 +4,8 @@ phases:
   install:
     commands:
       - bash env_create.sh
-  build:
-    commands:
-      - python3 build.py
 
 artifacts:
   files:
     - appspec.yml
     - main.py
-#    - run.sh
-#    - env_create.sh
