@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /main.py
-    destination: /home/ec2-user
+    destination: /home/ec2-user/app
